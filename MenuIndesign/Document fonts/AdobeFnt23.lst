@@ -1,0 +1,83 @@
+%!Adobe-FontList 1.23
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/nomuggles/Desktop/School/DME-215-ADV-Design/Lesson.12.13.14/ServicesMenu Folder/Document fonts/AdobeFnt23.lst
+FileLength:1669
+FileModTime:672774218
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:/Users/nomuggles/Desktop/School/DME-215-ADV-Design/Lesson.12.13.14/ServicesMenu Folder/Document fonts/MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:218640
+FileModTime:670308849
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:InaiMathi
+FamilyName:InaiMathi
+StyleName:Regular
+MenuName:InaiMathi
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:InaiMathi
+WritingScript:Tamil
+OutlineFileName:/Users/nomuggles/Desktop/School/DME-215-ADV-Design/Lesson.12.13.14/ServicesMenu Folder/Document fonts/InaiMathi-MN.ttc
+TTCOffset:32
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:457432
+FileModTime:672774218
+NameArray:0,Mac,4,InaiMathi
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:InaiMathi-Bold
+FamilyName:InaiMathi
+StyleName:Bold
+MenuName:InaiMathi
+StyleBits:0
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:InaiMathi Bold
+WritingScript:Tamil
+OutlineFileName:/Users/nomuggles/Desktop/School/DME-215-ADV-Design/Lesson.12.13.14/ServicesMenu Folder/Document fonts/InaiMathi-MN.ttc
+TTCOffset:412
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:457432
+FileModTime:672774218
+NameArray:0,Mac,4,InaiMathi Bold
+%EndFont
+
